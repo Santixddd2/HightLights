@@ -64,3 +64,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## This project
+This project is about a simple web page built with Laravel to upload your Minecraft resources and have fun with other players. ;)
